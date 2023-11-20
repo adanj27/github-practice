@@ -5,6 +5,7 @@ Este repositorio es un proyecto colaborativo con dos ramas principales: `main` y
 ## Clonar el Repositorio
 
 ```bash
+
 git clone https://github.com/adanj27/github-practice.git
 ```
 
@@ -50,3 +51,6 @@ Una vez aprobado, realiza el merge de tu rama a `dev`.
 - Haz clic en el botón `Merge Pull Request`.
 - Selecciona `Confirm Merge`.
 - Tu código ahora está en la rama `dev`.
+
+
+
